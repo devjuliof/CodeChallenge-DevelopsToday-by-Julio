@@ -110,10 +110,6 @@ This project implements a Country Info App as part of a full-stack JavaScript en
      cd backend
      npm start
      ```
-   - **Alternatively**, you can use:
-     ```bash
-     node server.js
-     ```
 
 4. **Start the Frontend Server:**
 
