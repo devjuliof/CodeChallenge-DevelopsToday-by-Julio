@@ -89,8 +89,8 @@ This project implements a Country Info App as part of a full-stack JavaScript en
 
    - First, clone the repository to your local machine:
      ```bash
-     git clone <repository-url>
-     cd <repository-name>
+     git clone https://github.com/devjuliof/CodeChallenge-DevelopsToday-by-Julio.git
+     cd CodeChallenge-DevelopsToday-by-Julio
      ```
 
 2. **Install Dependencies:**
