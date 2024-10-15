@@ -85,7 +85,15 @@ This project implements a Country Info App as part of a full-stack JavaScript en
 
 ### Instructions for Running:
 
-1. **Install Dependencies:**
+1. **Clone the Repository:**
+
+   - First, clone the repository to your local machine:
+     ```bash
+     git clone <repository-url>
+     cd <repository-name>
+     ```
+
+2. **Install Dependencies:**
 
    - Navigate to the backend and frontend directories and install dependencies:
      ```bash
@@ -95,7 +103,7 @@ This project implements a Country Info App as part of a full-stack JavaScript en
      npm install
      ```
 
-2. **Start the Backend Server:**
+3. **Start the Backend Server:**
 
    - Run the backend server:
      ```bash
@@ -107,7 +115,7 @@ This project implements a Country Info App as part of a full-stack JavaScript en
      node server.js
      ```
 
-3. **Start the Frontend Server:**
+4. **Start the Frontend Server:**
 
    - In a new terminal window, run the frontend server using Vite:
      ```bash
@@ -115,7 +123,7 @@ This project implements a Country Info App as part of a full-stack JavaScript en
      npm run dev
      ```
 
-4. **Access the Application:**
+5. **Access the Application:**
    - Click the first link that `npm run dev` provides.
 
 By following these instructions, you will be able to test the application locally and verify that both the frontend and backend are working together seamlessly.
