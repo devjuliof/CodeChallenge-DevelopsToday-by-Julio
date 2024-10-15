@@ -101,6 +101,7 @@ This project implements a Country Info App as part of a full-stack JavaScript en
      npm install
      cd ../frontend
      npm install
+     cd ../
      ```
 
 3. **Start the Backend Server:**
